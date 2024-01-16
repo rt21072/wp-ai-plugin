@@ -1,2 +1,2 @@
 # wp-ai-plugin
-ai post description
+ai post description ads content to your post
